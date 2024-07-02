@@ -1,6 +1,6 @@
 {
   "name": "tilefix",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "manipulate sets of vectortiles in mbtiles containers",
   "main": "tilefix.js",
   "bin": {
