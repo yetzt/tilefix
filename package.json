@@ -1,6 +1,6 @@
 {
   "name": "tilefix",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "manipulate sets of vectortiles in mbtiles containers",
   "main": "tilefix.js",
   "bin": {
@@ -20,6 +20,8 @@
     "vt-pbf": "^3.1.3"
   },
   "overrides": {
-    "semver": "^7.5.2"
+    "minimatch": "^10.2.2",
+    "semver": "^7.5.2",
+    "tar": "^7.5.7"
   }
 }
